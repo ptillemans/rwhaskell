@@ -1,3 +1,4 @@
 /.dir-locals.el
 *.hi
 *.o
+src/ch05/Main
